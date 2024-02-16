@@ -10,5 +10,4 @@ public class GitPracticeApplication {
 		System.out.println("hello world");
 		SpringApplication.run(GitPracticeApplication.class, args);
 	}
-
 }
